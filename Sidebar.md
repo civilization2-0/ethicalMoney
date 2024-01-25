@@ -8,3 +8,5 @@
 
 [[Contact Jonathan Sand]]  
 [[Contest Rules]]  
+[[Ethical Money]]  
+[[Certificate of Wisdom]]  
