@@ -7,3 +7,4 @@
 ---
 
 [[Contact Jonathan Sand]]  
+[[Contest Rules]]  
