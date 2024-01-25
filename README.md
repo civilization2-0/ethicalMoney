@@ -5,3 +5,4 @@ I wonder if we could identify one single problem the solution to which would be 
 
 [[Contest Rules]]  
 [[Ethical Money]]  
+[[Certificate of Wisdom]]  
