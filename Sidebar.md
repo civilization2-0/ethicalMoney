@@ -10,5 +10,6 @@
 [[Ethical Money]]  
 [[Certificate of Wisdom]]  
 [[Political Sanity]]  
+[[Antidote to Gaslighting]]  
 
 [[Contact Jonathan Sand]]  
