@@ -11,5 +11,6 @@
 [[Certificate of Wisdom]]  
 [[Political Sanity]]  
 [[Antidote to Gaslighting]]  
+[[Crowd sourced ideas]]  
 
 [[Contact Jonathan Sand]]  
