@@ -6,3 +6,5 @@ Reliable and relevant truth is quite valuable. A lot of work goes into dealing w
 Several ideas come to mind. Shoot them all (;-). Calling someone on it. Encourage acceptance and preference.
 
 In case these ideas don't work, can we think up something that does?
+
+Proposed by Bruce Carrubba
