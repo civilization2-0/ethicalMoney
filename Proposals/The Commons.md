@@ -9,4 +9,4 @@ If all ideas are unowned, the people described above will be reluctant to submit
 
 Perhaps this problem has two parts. Ownership and recognition. These parts overlap but are not identical. Could the commons track recognition and ignore ownership?
 
-Proposed by Michael Lemmon, authored by Jonathan Sand
+Proposed by Michael Lennon, authored by Jonathan Sand
