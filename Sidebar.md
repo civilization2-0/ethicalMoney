@@ -13,5 +13,7 @@
 [[Antidote to Gaslighting]]  
 [[The Commons]]  
 [[Investigating Claims]]  
+[[Customer Feedback]]  
+[[Soft and Calm]]  
 
 [[Contact Jonathan Sand]]  
