@@ -1,14 +1,10 @@
 # The most relevant contest ever?
 
 
-I wonder if we could use crowd-sourcing to identify one single problem the solution to which would be more impactful than anything else.
+Would you like to help choose the one single problem to solve? The one you think will have the best possible impact on everything. Let's gather up lots project proposals and choose one.
 
-Can we have a contest and accept project proposals?
-
-- [[Contest Rules]]  
 - [[Ethical Money]]  
 - [[Certificate of Wisdom]]  
-- [[Political Sanity]]  
 - [[Antidote to Gaslighting]]  
 - [[The Commons]]  
 - [[Investigating Claims]]  

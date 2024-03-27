@@ -1,5 +1,5 @@
 # Soft and Calm
 
-Some of us can recognize the scary items in the public forum as being crafted (without actual evidence) with the intention of hijacking your rationality. This being bothersome, they choose to hold tight to their rationality and consciously ignore those items. Several benefits accrue. Peace of mind, deep and restful sleep, boost in health and well being, mental freedom to appreciate nature.
+Some of us can recognize the scary items in the public forum as being crafted. It's a way to hijack our rationality by ringing the alarm loudly, without much compelling evidence. Our countermeasure? We consciously choose to carefully disregard a lot of them. Why bother? Peace of mind, deep and restful sleep, boost in health and well being, mental freedom to appreciate nature.
 
-The problem is how do we make this a popular mode of thinking?
+The problem is how do we spread the word to make it popular?
