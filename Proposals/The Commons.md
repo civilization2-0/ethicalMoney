@@ -1,5 +1,8 @@
 # The Commons
-The idea here is a free-to-use repository of ideas, inventions, processes, knowledge. Industrial IT is carefully guarded in secrecy so as to grant the owner a competitive advantage. As a consequence, a great deal of redundant effort has been invested that has no net gain for the species at large.
+
+The idea here is a free-to-use repository of ideas, inventions, processes, knowledge.
+
+Industrial IT is carefully guarded in secrecy so as to grant the owner a competitive advantage. As a consequence, a great deal of redundant effort has been invested that has no net gain for the species at large.
 
 Some people want to own their contributions to the commons and to then sell access to them. They may wish their contributions to generate income. Or they may wish to see them gain influence and thereby gain recognition and regard. This reflects the current monetary mechanism, invented way back when, in part, to motivate creativity and solutions to ever evolving problems.
 
