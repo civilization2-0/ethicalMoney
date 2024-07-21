@@ -1,15 +1,19 @@
 # The Commons
 
-The idea here is a free-to-use repository of ideas, inventions, processes, knowledge.
+The idea here is a free-to-use repository of intellectual resources: ideas, inventions, processes, knowledge.
 
-Industrial IT is carefully guarded in secrecy so as to grant the owner a competitive advantage. As a consequence, a great deal of redundant effort has been invested that has no net gain for the species at large.
+Scarcity is the norm. The common attitude is a reluctance to share, focusing instead on ways to make it pay. Think: money, recognition, regard, influence, excitement, stimulation. Could the commons do it better?
 
-Some people want to own their contributions to the commons and to then sell access to them. They may wish their contributions to generate income. Or they may wish to see them gain influence and thereby gain recognition and regard. This reflects the current monetary mechanism, invented way back when, in part, to motivate creativity and solutions to ever evolving problems.
+We are in an unprecedented level of thriving, many intellectual resources are not at all scarce, merely hoarded. Contributed instead to the commons, they become plentiful.
 
-We could characterize it as "personal vs common property." 
+1. We need merely design it so that once established, it's self-sustaining. So that the compelling attraction is: everybody gains.
 
-If all ideas are unowned, the people described above will be reluctant to submit theirs, slowing the growth of the commons. If all ideas are owned, how is the commons more of a help than what exists now? Also, creating a policy that everyone will like is crazy hard. Possibly, however, we might come up with one. Let's try?
+2. How does it get started? This is the hard part.
+	a. Are there other projects like this?
 
-Perhaps this problem has two parts. Ownership and recognition. These parts overlap but are not identical. Could the commons track recognition and ignore ownership?
+3. We need to craft a policy that everyone will like. Subtleties abound.
+	a. Does a "personal" ownership work, where sharing is negotiated?
+	b. Could the commons track recognition and ignore ownership?
+	c. Do contributors have greater access that freeloaders?
 
-Proposed by Michael Lennon, authored by Jonathan Sand
+by Jonathan Sand (with Michael Lennon and Bill Larson)
