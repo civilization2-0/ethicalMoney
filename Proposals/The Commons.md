@@ -9,11 +9,11 @@ We are in an unprecedented level of thriving, many intellectual resources are no
 1. We need merely design it so that once established, it's self-sustaining. So that the compelling attraction is: everybody gains.
 
 2. How does it get started? This is the hard part.
-	a. Are there other projects like this?
+	1. Are there other projects like this?
 
 3. We need to craft a policy that everyone will like. Subtleties abound.
-	a. Does a "personal" ownership work, where sharing is negotiated?
-	b. Could the commons track recognition and ignore ownership?
-	c. Do contributors have greater access that freeloaders?
+	1. Does a "personal" ownership work, where sharing is negotiated?
+	2. Could the commons track recognition and ignore ownership?
+	3. Do contributors have greater access that freeloaders?
 
 by Jonathan Sand (with Michael Lennon and Bill Larson)
