@@ -10,7 +10,7 @@ Scarcity is the norm. The common attitude is a reluctance to share, focusing ins
 	3. Could the commons track recognition and ignore ownership?
 	4. Do contributors have greater access than freeloaders?
 
-2. How does it get started? This is the hard part.
+2. How does it get started? Will this be the hard part?
 	1. Are there other projects like this?
 	2. What kind of funding would do the trick?
 	3. Leave for later: trying to attract the hard cases.
